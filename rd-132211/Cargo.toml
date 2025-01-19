@@ -1,7 +1,0 @@
-[package]
-name = "rd-132211-rust"
-version = "0.0.1"
-edition = "2021"
-
-[dependencies]
-bevy = "*"
